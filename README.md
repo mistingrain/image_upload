@@ -1,2 +1,2 @@
 # image_upload
-hello world!
+hello world
